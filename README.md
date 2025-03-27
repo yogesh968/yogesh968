@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm YOGESH KUMAR!
 
 ### 🚀 About Me
 💡 Passionate about Web Development & AI/ML.  
@@ -10,7 +10,7 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/yogesh-kumar-b84892309/?trk=opento_sprofile_pfeditor))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yogesh-kumar-b84892309/](https://www.linkedin.com/in/yogesh-kumar-b84892309/?trk=opento_sprofile_pfeditor))  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/your-profile](https://leetcode.com/u/sekeop/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yogesh968.github.io/yogesh_portfolio/)
 

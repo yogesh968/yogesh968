@@ -1,9 +1,10 @@
 # 👋 Hi, I'm **YOGESH KUMAR**!  
 
-🚀 **Web Developer | AI/ML Enthusiast | Tech Explorer**  
-
-📌 **BTech Student at Newton School of Technology (Pune)**  
-📚 **Currently learning:** `React`, `JavaScript`, `Python`  
+🚀 Passionate Web Developer | AI/ML Enthusiast | Tech Explorer
+🎓 BTech Student (Computer Science - AI/ML) at Newton School of Technology, Pune
+💡 Enthusiastic about crafting dynamic, user-friendly, and efficient web applications.
+📚 Currently exploring: React, JavaScript, Python, and Modern Web Technologies.
+🌟 Always learning, experimenting, and building projects that enhance digital experiences. 
 
 ---
 

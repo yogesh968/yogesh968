@@ -8,10 +8,87 @@
 # 👋 Hey, I'm **Yogesh Kumar**  
 
 🚀 **Web Developer | AI/ML Enthusiast | Tech Explorer**  
-🎓 **B.Tech in Computer Science (AI & ML)** @ Newton School of Technology, Pune  
-💡 I love **crafting dynamic, scalable, and user-friendly web applications** and diving deep into **AI/ML experiments**.  
-🌱 Currently exploring **React, JavaScript, Python & Modern Web Technologies**  
-⚡ Passionate about **building, learning, and innovating** every single day!  
+🎓 Pursuing **B.Tech in Computer Science (AI & ML)** @ Newton School of Technology, Pune  
+💡 I love **building user-friendly web apps**, exploring **AI/ML models**, and experimenting with **modern technologies**.  
+🌱 Currently learning **React, Node.js, Python & Cloud Tech**  
+⚡ My goal: To **combine Web Dev + AI/ML** and create next-gen applications.  
+
+---
+
+## 🧑‍💻 About Me  
+- 🔭 I’m currently working on **full-stack projects** using React & Node.js.  
+- 🌱 Learning **Data Structures, DBMS, and Machine Learning** to sharpen my problem-solving skills.  
+- 👯 I’m looking to collaborate on **open-source projects & hackathons**.  
+- 💬 Ask me about **Web Development, AI/ML basics, and coding in general**.  
+- ⚡ Fun fact: I love **debugging at night 🌙** and **badminton 🏸**.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats, Streaks & Trophies  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogesh968&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh968&layout=compact&theme=radical" height="160"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yogesh968&theme=radical&hide_border=true" height="160"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yogesh968&theme=radical&margin-w=8&margin-h=8&column=7" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+🔹 [**My Portfolio**](https://yogesh968.github.io/yogesh_portfolio/) – A showcase of my skills & journey.  
+🔹 [**Web Dev Projects**](https://github.com/yogesh968?tab=repositories) – Fun & dynamic projects built with HTML, CSS, JS, React.  
+🔹 [**AI/ML Experiments**](https://github.com/yogesh968?tab=repositories) – Learning ML through hands-on experiments.  
+
+---
+
+## 🏆 Achievements  
+- 🎯 Solved **300+ coding problems** on platforms like LeetCode & HackerRank.  
+- 🏅 Participated in **Hackathons & Open Source Contributions**.  
+- 🥇 Built multiple **real-world projects** (Portfolio, E-commerce, ML Models).  
+- 📚 Always contributing to my **learning journal** by writing notes and documenting projects.  
+
+---
+
+## 🎯 2025 Goals  
+✅ Master **Advanced Data Structures & Algorithms**  
+✅ Contribute more to **open-source projects**  
+✅ Build **AI-powered web apps**  
+✅ Improve problem-solving speed on **LeetCode**  
+✅ Collaborate with developers worldwide 🌍  
+
+---
+
+## ⚡ Fun Corner  
+> 💬 *"Code. Learn. Innovate. Repeat."*  
+> 🌱 Outside coding: I enjoy **badminton, tech blogs, and exploring startups**.  
+> 🎵 I also like listening to **music while coding** for extra focus!  
 
 ---
 
@@ -26,34 +103,4 @@
 
 ---
 
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,cpp,java,git,github,vscode,linux&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats & Streaks  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogesh968&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh968&layout=compact&theme=radical" height="160"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yogesh968&theme=radical&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🚀 Featured Projects  
-🔹 [**My Portfolio**](https://yogesh968.github.io/yogesh_portfolio/) – A showcase of my skills & journey.  
-🔹 [**Web Dev Projects**](https://github.com/yogesh968?tab=repositories) – Fun & dynamic projects built with HTML, CSS, JS, React.  
-🔹 [**AI/ML Experiments**](https://github.com/yogesh968?tab=repositories) – Learning ML through hands-on experiments.  
-
----
-
-## ⚡ Fun Fact  
-> 💬 _"Code. Learn. Innovate. Repeat."_  
-> I believe in building things that **make life easier & experiences better** 🚀  
-
----
-
-✨ If you like my work, don’t forget to ⭐ my repos and let’s **collaborate on amazing projects!**  
+✨ If you like my work, don’t forget to ⭐ my repos and let’s **collaborate on amazing projects!** 🚀

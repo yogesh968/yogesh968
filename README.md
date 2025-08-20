@@ -1,56 +1,59 @@
-# 👋 Hi, I'm **YOGESH KUMAR**!  
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Hey%2C+I'm+Yogesh+Kumar+👋;Web+Developer+🚀;AI%2FML+Enthusiast+🤖;Tech+Explorer+🌍;Always+Learning+💡" alt="Typing Animation" />
+</p>
 
-🚀 **Passionate Web Developer | AI/ML Enthusiast | Tech Explorer**  
-🎓 **BTech Student (Computer Science - AI/ML) at Newton School of Technology, Pune**  
-💡 **Enthusiastic about crafting dynamic, user-friendly, and efficient web applications.**  
-📚 **Currently exploring:** `React`, `JavaScript`, `Python`, and `Modern Web Technologies`.  
-🌟 **Always learning, experimenting, and building projects that enhance digital experiences.**  
+---
+
+# 👋 Hey, I'm **Yogesh Kumar**  
+
+🚀 **Web Developer | AI/ML Enthusiast | Tech Explorer**  
+🎓 **B.Tech in Computer Science (AI & ML)** @ Newton School of Technology, Pune  
+💡 I love **crafting dynamic, scalable, and user-friendly web applications** and diving deep into **AI/ML experiments**.  
+🌱 Currently exploring **React, JavaScript, Python & Modern Web Technologies**  
+⚡ Passionate about **building, learning, and innovating** every single day!  
 
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-kumar-b84892309/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://leetcode.com/u/sekeop/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yogesh968.github.io/yogesh_portfolio/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogesh968)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sekeop/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YogeshKumar)  
+<p align="center">
+<a href="https://www.linkedin.com/in/yogesh-kumar-b84892309/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/sekeop/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://github.com/yogesh968"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/YogeshKumar"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://yogesh968.github.io/yogesh_portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack  
 <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,cpp,java,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Streaks  
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yogesh968&show_icons=true&theme=dark" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh968&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yogesh968&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh968&layout=compact&theme=radical" height="160"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yogesh968&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 📌 Featured Projects  
-🔹 **[My Portfolio](https://yogesh968.github.io/yogesh_portfolio/)** – A showcase of my skills, projects, and experience.  
-🔹 **[Web Dev Projects](https://github.com/yogesh968?tab=repositories)** – Various projects built using HTML, CSS, JS, and React.  
-🔹 **[AI/ML Experiments](https://github.com/yogesh968?tab=repositories)** – Exploring the world of Machine Learning and AI.  
+## 🚀 Featured Projects  
+🔹 [**My Portfolio**](https://yogesh968.github.io/yogesh_portfolio/) – A showcase of my skills & journey.  
+🔹 [**Web Dev Projects**](https://github.com/yogesh968?tab=repositories) – Fun & dynamic projects built with HTML, CSS, JS, React.  
+🔹 [**AI/ML Experiments**](https://github.com/yogesh968?tab=repositories) – Learning ML through hands-on experiments.  
 
 ---
 
-🚀 **“Code, Learn, Innovate”**  
-💬 _Let's collaborate and build something amazing!_ 😃  
+## ⚡ Fun Fact  
+> 💬 _"Code. Learn. Innovate. Repeat."_  
+> I believe in building things that **make life easier & experiences better** 🚀  
+
+---
+
+✨ If you like my work, don’t forget to ⭐ my repos and let’s **collaborate on amazing projects!**  

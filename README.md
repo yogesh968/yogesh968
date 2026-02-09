@@ -51,16 +51,7 @@ Right now, I’m exploring the space where **Web Development meets AI**, and hon
 
 ---
 
-## 📊 GitHub Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogesh968&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh968&layout=compact&theme=radical" height="160"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yogesh968&theme=radical&hide_border=true" height="160"/>
-</p>
-
----
 
 ## 🚀 Projects I'm Proud Of
 

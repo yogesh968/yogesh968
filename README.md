@@ -34,6 +34,14 @@ I'm a passionate **Full Stack Developer** from India, specializing in modern web
 ---
 
 ## 🛠️ Tech Stack
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
 
 ### **Frontend Development**
 
@@ -106,6 +114,7 @@ I'm a passionate **Full Stack Developer** from India, specializing in modern web
 - **Problem Solving** - Strong algorithmic thinking and data structures knowledge
 
 ---
+
 
 ## 📫 Get In Touch
 

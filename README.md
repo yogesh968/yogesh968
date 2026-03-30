@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="800" height="400"/>
 </div>
 
-# 👨‍💻 Yogesh Kumar
+# Yogesh Kumar
 
 <div align="center">
   
@@ -13,11 +13,11 @@
   
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **Full Stack Developer** from India, specializing in modern web technologies and building scalable applications. With expertise in both frontend and backend development, I create seamless user experiences and robust server-side solutions.
 
-### 🎯 What I Do
+###  What I Do
 
 - **Full Stack Development** - Building end-to-end web applications
 - **Modern Web Technologies** - React, Next.js, Node.js, and more
@@ -25,7 +25,7 @@ I'm a passionate **Full Stack Developer** from India, specializing in modern web
 - **Cloud Deployment** - Vercel, Firebase, and other cloud platforms
 - **Generative AI** - Exploring AI-powered solutions
 
-### 📚 Currently Learning
+###  Currently Learning
 
 - Advanced **Generative AI** applications
 - **System Design** and architecture patterns
@@ -99,7 +99,7 @@ I'm a passionate **Full Stack Developer** from India, specializing in modern web
 
 <br><br>  
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
 - **LeetCode** - [MagnusX](https://leetcode.com/u/sekeop/)
 - **CodeForces** - [MagnusX](https://codeforces.com/profile/Yogesh2006)
@@ -108,7 +108,7 @@ I'm a passionate **Full Stack Developer** from India, specializing in modern web
 ---
 
 
-## 📫 Get In Touch
+##  Get In Touch
 
 <div align="center">
   

@@ -4,21 +4,21 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkaHarshit&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AkaHarshit?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/AkaHarshit?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=yogesh968&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yogesh968?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/yogesh968?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
 <!-- CYBERPUNK ASCII ART TITLE -->
 <div align="center">
 
 ```
- ██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗████████╗
- ██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██║╚══██╔══╝
- ███████║███████║██████╔╝███████╗███████║██║   ██║   
- ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██║   ██║   
- ██║  ██║██║  ██║██║  ██║███████║██║  ██║██║   ██║   
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   
+ ██╗   ██╗ ██████╗  ██████╗ ███████╗███████╗██╗  ██╗
+ ╚██╗ ██╔╝██╔═══██╗██╔════╝ ██╔════╝██╔════╝██║  ██║
+  ╚████╔╝ ██║   ██║██║  ███╗█████╗  ███████╗███████║
+   ╚██╔╝  ██║   ██║██║   ██║██╔══╝  ╚════██║██╔══██║
+    ██║   ╚██████╔╝╚██████╔╝███████╗███████║██║  ██║
+    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
 </div>
@@ -26,7 +26,7 @@
 <!-- TYPING SVG ANIMATION -->
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=%E2%9A%A1+SYSTEM%3A+CONNECTED+%E2%9A%A1;%F0%9F%94%A5+Full-Stack+Developer+%7C+AI+Engineer+%F0%9F%94%A5;%F0%9F%9A%80+Open+Source+Contributor+%F0%9F%9A%80;%F0%9F%8E%AF+Competitive+Programmer+%F0%9F%8E%AF;%F0%9F%92%BB+Building+the+Future+with+Code+%F0%9F%92%BB)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=%E2%9A%A1+SYSTEM%3A+CONNECTED+%E2%9A%A1;%F0%9F%94%A5+Full-Stack+Developer+%7C+Software+Engineer+%F0%9F%94%A5;%F0%9F%9A%80+Open+Source+Enthusiast+%F0%9F%9A%80;%F0%9F%92%BB+Problem+Solver+%F0%9F%92%BB;%F0%9F%8C%90+Building+the+Future+with+Code+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,31 +42,29 @@
 //                    SYSTEM BOOT SEQUENCE                        
 // ═══════════════════════════════════════════════════════════════
 
-const HarshitSingh = {
+const YogeshKumar = {
     identity: {
-        name:      "Harshit Singh",
-        alias:     "AkaHarshit",
+        name:      "Yogesh Kumar",
+        alias:     "yogesh968",
         location:  "India 🇮🇳",
         status:    "ONLINE ● ACTIVE"
     },
 
-    classification: "Full-Stack Developer | AI Engineer",
+    classification: "Full-Stack Developer | Software Engineer",
 
     tech_arsenal: {
-        languages:    ["Python", "JavaScript", "TypeScript", "SQL", "C++"],
-        frontend:     ["React", "React Native", "Redux", "TailwindCSS"],
-        backend:      ["Node.js", "Express", "FastAPI", "Flask"],
-        databases:    ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-        ai_ml:        ["TensorFlow", "PyTorch", "scikit-learn", "LangChain"],
-        devops:       ["Docker", "AWS", "Git", "GitHub Actions", "Linux"]
+        languages:    ["JavaScript", "TypeScript", "Python", "SQL", "HTML", "CSS"],
+        frontend:     ["React", "Next.js", "TailwindCSS"],
+        backend:      ["Node.js", "Express", "MongoDB"],
+        tools:        ["Git", "GitHub", "VS Code"]
     },
 
-    mission: "Building intelligent systems that push boundaries",
+    mission: "Crafting digital experiences and building the future",
     
     current_quest: {
-        learn:  "System Design & Cloud Architecture",
-        build:  "AI-Powered Applications",
-        solve:  "Data Structures & Algorithms"
+        learn:  "Advanced System Design",
+        build:  "Scalable Web Applications",
+        solve:  "Real-world problems with code"
     }
 };
 ```
@@ -138,18 +136,18 @@ const HarshitSingh = {
 ## 📊 GITHUB COMMAND CENTER
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkaHarshit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF0080&ring_color=00FF41" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkaHarshit&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00FFFF" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yogesh968&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF0080&ring_color=00FF41" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh968&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00FFFF" width="49%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaHarshit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=10" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh968&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=10" width="49%" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkaHarshit&bg_color=0D1117&color=00FF41&line=FF0080&point=00FFFF&area=true&hide_border=true&custom_title=⚡%20Contribution%20Activity%20Graph" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogesh968&bg_color=0D1117&color=00FF41&line=FF0080&point=00FFFF&area=true&hide_border=true&custom_title=⚡%20Contribution%20Activity%20Graph" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -158,9 +156,9 @@ const HarshitSingh = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkaHarshit/AkaHarshit/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkaHarshit/AkaHarshit/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AkaHarshit/AkaHarshit/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogesh968/yogesh968/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogesh968/yogesh968/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yogesh968/yogesh968/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -169,99 +167,34 @@ const HarshitSingh = {
 ## 🏆 GITHUB TROPHIES
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkaHarshit&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yogesh968&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🎯 COMPETITIVE PROGRAMMING
 
-<div align="center">
-
-### 📈 LeetCode Stats
-
-<a href="https://leetcode.com/u/harshdoescode/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/harshdoescode?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" width="60%" alt="LeetCode Stats"/>
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/harshdoescode/" target="_blank">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fharshdoescode&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
-</a>
-
-### 🏅 Codeforces Stats
-
-<a href="https://codeforces.com/profile/harshdoescode" target="_blank">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=harshdoescode&theme=radical&force_username=true&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00FF41" alt="Codeforces Stats"/>
-</a>
-
-<br/><br/>
-
-<a href="https://codeforces.com/profile/harshdoescode" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a>
-<a href="https://leetcode.com/u/harshdoescode/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-</div>
 
 ---
 
 ## 📈 CONTRIBUTION ANALYTICS
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkaHarshit&theme=radical" width="100%" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogesh968&theme=radical" width="100%" alt="Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkaHarshit&theme=radical" width="32%" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkaHarshit&theme=radical" width="32%" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkaHarshit&theme=radical&utcOffset=5.5" width="32%" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogesh968&theme=radical" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yogesh968&theme=radical" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yogesh968&theme=radical&utcOffset=5.5" width="32%" alt="Productive Time"/>
 </div>
 
 ---
 
-## 💼 FEATURED PROJECTS
 
-<div align="center">
-
-[![Wanderlust](https://github-readme-stats.vercel.app/api/pin/?username=AkaHarshit&repo=Wanderlust&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF0080&text_color=FFFFFF)](https://github.com/AkaHarshit/Wanderlust)
-
-<table>
-  <tr>
-    <td align="center"><b>🚀 Live Demo</b></td>
-    <td><a href="https://wanderlust-3kk4.onrender.com/listings">wanderlust-3kk4.onrender.com</a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🛠️ Tech Stack</b></td>
-    <td>React • Node.js • MongoDB • Express • EJS • Bootstrap</td>
-  </tr>
-  <tr>
-    <td align="center"><b>📝 Description</b></td>
-    <td>Full-stack hotel & property booking platform with real-time availability, user authentication, image uploads, and interactive maps.</td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
-## 🌐 OPEN SOURCE CONTRIBUTIONS
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Contributions-2%2B%20Merged%20PRs-success?style=for-the-badge&logo=github" alt="Open Source Contributions"/>
-
-<br/><br/>
-
-| Status | Project | Description | Stars |
-|:---:|:---|:---|:---:|
-| ✅ PR Merged | [🍃 Mongoose](https://github.com/Automattic/mongoose) | MongoDB ODM for Node.js | 27.4k+ ⭐ |
-| ✅ PR Merged | [🚀 KY](https://github.com/sindresorhus/ky) | Elegant HTTP Client | Popular ⭐ |
-
-</div>
 
 ---
 
@@ -273,12 +206,12 @@ const HarshitSingh = {
 ╔══════════════════════════════════════════════════════════════╗
 ║                    MISSION BRIEFING — 2026                   ║
 ╠══════════════════════════════════════════════════════════════╣
-║  🚀  Contribute to 10+ major open source projects           ║
-║  🤖  Build and deploy 5 AI-powered applications             ║
-║  📚  Master system design and cloud architecture             ║
-║  🌟  Reach 1000+ GitHub stars across all repositories        ║
-║  💼  Help aspiring developers through mentorship             ║
-║  🎯  Solve 500+ problems on LeetCode & Codeforces           ║
+║  🚀  Contribute to meaningful open source projects           ║
+║  💻  Build and deploy scalable web applications             ║
+║  📚  Master advanced system design and architecture          ║
+║  🌟  Create impact through innovative software solutions      ║
+║  💼  Continuously learn and grow in the tech industry        ║
+║  🎯  Solve complex problems with elegant code                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -290,12 +223,9 @@ const HarshitSingh = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkaHarshit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-singh-5b03b7358/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-self-rho.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshit.singh22082007@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshdoescode)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshdoescode/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogesh968)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-kumar-b84892309/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yogesh__me/)
 
 </div>
 
@@ -317,14 +247,9 @@ const HarshitSingh = {
 
 ---
 
-## 💰 SUPPORT MY WORK
-
 <div align="center">
 
-If you like my work and want to support me, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/akaharshit)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AkaHarshit)
+If you like my work, feel free to star my repositories! ⭐
 
 </div>
 
@@ -346,7 +271,7 @@ If you like my work and want to support me, consider buying me a coffee! ☕
 
 <div align="center">
 
-**Made by Harshit Singh 👨🏻‍💻**
+**Made by Yogesh Kumar 👨🏻‍💻**
 
 `Last Updated: April 2026`
 

@@ -137,7 +137,7 @@ const YogeshKumar = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yogesh968&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF0080&ring_color=00FF41" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh968&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0080&currStreakLabel=00FFFF" width="49%" alt="GitHub Streak"/>
+  
 </div>
 
 <div align="center">

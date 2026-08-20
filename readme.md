@@ -187,7 +187,7 @@ const YogeshKumar = {
 
 ---
 
-## 💭 RANDOM DEV QUOTE
+## 💭RANDOM DEV QUOTE
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>

@@ -56,8 +56,6 @@ const YogeshKumar = {
 
 </div>
 
----
-
 ## 🛠️ TECH ARSENAL
 
 <div align="center">

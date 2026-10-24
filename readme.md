@@ -18,7 +18,7 @@
 
 ---
 
-## ⚡ NEURAL INTERFACE ACTIVATED
+## NEURAL INTERFACE ACTIVATED
 
 <div align="center">
 

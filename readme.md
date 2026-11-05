@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YOGESH%20KUMAR&fontSize=60&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descColor=FFFFFF" width="100%"/>
 </div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yogesh968&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/yogesh968?label=Followers&style=for-the-badge&color=blue" alt="Followers" />

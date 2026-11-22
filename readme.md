@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/stars/yogesh968?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
-<!-- TYPING SVG ANIMATION -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%E2%9A%A1+SYSTEM%3A+CONNECTED+%E2%9A%A1;%F0%9F%94%A5+Full-Stack+Developer+%7C+Software+Engineer+%F0%9F%94%A5;%F0%9F%9A%80+Open+Source+Enthusiast+%F0%9F%9A%80;%F0%9F%92%BB+Problem+Solver+%F0%9F%92%BB;%F0%9F%8C%90+Building+the+Future+with+Code+%F0%9F%8C%90)](https://git.io/typing-svg)
